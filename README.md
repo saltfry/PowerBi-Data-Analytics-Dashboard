@@ -52,3 +52,10 @@ Created advanced measures to go beyond surface-level data:
     Customer Loyalty: Top 4 customers contribute roughly 15% of the total revenue.
     
     Dataset/: Raw CSV files used for the analysis.
+
+ 🎓 Credits & Reference
+
+ *Tutorial by:* [Rishabh Mishra](https://www.youtube.com/@RishabhMishraOfficial)
+ 
+ *Video Link:* [Watch Tutorial on YouTube](https://youtu.be/6cV3OwFrOkk)
+    
