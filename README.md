@@ -1,4 +1,5 @@
 🛒 Madhav Store Sales Analysis | Power BI Project
+
 📌 Executive Summary
 
 This project transforms raw e-commerce data into an interactive sales intelligence tool. By analyzing 1,500+ transactions, the dashboard identifies growth drivers, customer purchasing patterns, and regional performance for Madhav Store.
